@@ -1,0 +1,7 @@
+add_executable(hello hello.cc)
+add_executable(input input.cc)
+add_executable(swap_temp swap_temp.cc)
+add_executable(swap_novar swap_novar.cc)
+add_executable(evenodd even_odd.cc)
+add_executable(largest3 largest3.cc)
+add_executable(leap leap.cc)
