@@ -36,8 +36,6 @@ int main() {
     for (const auto& elem : vec) {
         std::cout << elem << " ";
     }
-    std::cout << '\n';
-
-    std::cout.flush();
+    std::cout << std::endl;
     return 0;
 }
